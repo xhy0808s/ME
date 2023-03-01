@@ -1,2 +1,2 @@
 # ME
-Introduce yourself.
+Hi, welcome. i'm Chogang.

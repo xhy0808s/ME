@@ -1,3 +1,3 @@
 # ME
-Hi, welcome. i'm Chogang.
+Hi, welcome. i'm Chogang./
 #3776AB

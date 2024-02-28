@@ -2,4 +2,5 @@
 
 <div align=center>
 <h1>Hi, welcome. I'm chogang<h1/>
+<p>기술</p>
 </div>
